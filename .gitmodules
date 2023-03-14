@@ -1,3 +1,3 @@
 [submodule "5iw4-ninja-task"]
 	path = 5iw4-ninja-task
-	url = file:///Users/rayhan/Documents/5iw4-task-ninja/5iw4-ninja-task
+	url = git@github.com:rklf/grpc-ninja-task-submodule.git
